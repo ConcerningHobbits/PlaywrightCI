@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "playwright": "^1.44.1"
-  }
+  },
+  "name": "PlaywrightProjects",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ConcerningHobbits/PlaywrightCI.git",
+  "author": "ConcerningHobbits <m_lizakowski@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.5"
+  },
+  "scripts": {}
 }
