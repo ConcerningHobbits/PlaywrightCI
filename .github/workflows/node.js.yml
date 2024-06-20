@@ -28,4 +28,4 @@ jobs:
       - name: Install dependencies
         run: yarn --frozen-lockfile
       - run: npm run build --if-present
-      - run: npm playwright test
+      - run: npx playwright test
